@@ -1,3 +1,7 @@
 Primer linea de noticias
 
+<<<<<<< HEAD
 Sefunda linea desde PC
+=======
+Segunda linea desde WEB
+>>>>>>> origin/master
